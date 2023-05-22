@@ -71,7 +71,7 @@ public class TestCalculadora {
       //fail (" Test sin diseñar ");
     }
     
-    /*
+    
      @Test
     public void testDivision(){
         object.setNumero1(20);
@@ -82,7 +82,7 @@ public class TestCalculadora {
         
     // fail (" Test sin diseñar ");
     }
-    */
+    
     @Test
     public void testMultiplicacion(){
         object.setNumero1(20);

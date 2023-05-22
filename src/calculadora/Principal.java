@@ -23,13 +23,13 @@ public class Principal {
         
         double resExperado = 3.33 ;
         
-        /*
+        
         if ( resExperado == CASIO.division() ) {
             System.out.println("El test de la división es correcto");
         }else{
             System.out.println("El test de la división no es correcto");
         }
-        */
+        
    }
         
         

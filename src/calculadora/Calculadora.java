@@ -77,5 +77,9 @@ public class Calculadora {
         return division;
     }
     
+    public int Entera() {
+      int entera = (int) (numero1%numero2);
+      return entera;
+    }
 
 }
